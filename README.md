@@ -2,7 +2,7 @@ Files in ML_Metallic glass_GFA are the source code of the work "Rational design 
 The files including:
 1. descriptors.zip: the calculation of descriptors
 2. Classificationmodels.mat: the training results of classification models
-3. Regressionmodels: the training results of regression models
+3. Regressionmodels, including ANN.zip, RQGPR.mat, ExpGPR.mat, SqExpGPR.mat, GSVM.mat, and RF.mat: the training results of regression models
 4. Analysis.zip: the data analysis
 
 descriptors running procedure:
